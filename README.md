@@ -1,6 +1,6 @@
 # Dealabs monitor .LysC0
 
-## pip install 
+## pip install [required lib]
 
 - pip install requests
 - pip install requests_html
