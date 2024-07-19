@@ -18,7 +18,7 @@
 
 ## how to run the monitor ? ##
 
-into the directory (Dealabs_Monitor_PUBLIC) run this file :
+into the directory (Dealabs_Monitor_PUBLIC) run this command :
 - python3 monitor_dealabs.py
 
 ## dm discord, bug fix..
