@@ -1,8 +1,8 @@
 {
-    "Webhook" : "https://discord.com/api/webhooks/1154193477819695175/lXjz_mO_oxiNDgXqBYh3Rr69LRpgUuTLBLBhnjKYUAaGMbRIjpLu8IdbdSVBm1n7Cc5f",
+    "Webhook" : "webhook url",
     "Range" : "190000",
     "Master_link" : "https://www.dealabs.com/nouveaux", 
-    "await_time" : 3,
+    "await_time" : 2,
     "Keyword" : [
         "raspberry pi",
         "sony",
