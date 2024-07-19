@@ -1,4 +1,4 @@
-# Dealabs monitor .LysC0
+# Dealabs monitor .LysC0 [MACOS]
 
 ![info](img/info.png)
 
