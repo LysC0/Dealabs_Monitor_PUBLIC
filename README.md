@@ -1,5 +1,7 @@
 # Dealabs monitor .LysC0
 
+![info](img/info.png)
+
 ## pip install [required lib]
 
 - pip install requests
