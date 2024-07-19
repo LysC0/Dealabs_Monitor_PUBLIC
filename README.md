@@ -16,6 +16,10 @@
 - await_time : loop await time (ex : 2)
 - Keyword : Specific keyword (if keyword found, webhook send ping user / check setup.json for exemple)
 
+## how to run the monitor ? ##
+
+- cmd : python3 monitor_dealabs.py
+
 ## dm discord, bug fix..
 
 .sail or sail#1056
