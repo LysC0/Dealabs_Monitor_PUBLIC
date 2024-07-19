@@ -16,6 +16,6 @@
 - await_time : loop await time (ex : 2)
 - Keyword : Specific keyword (if keyword found, webhook send ping user / check setup.json for exemple)
 
-## dm discord, bug fix..)
+## dm discord, bug fix..
 
-. sail or sail#1056
+.sail or sail#1056
