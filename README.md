@@ -12,7 +12,7 @@
 
 - Webhook : url discord webhook
 - Range : monitoring try number (put a high number, ex : 999999)
-- Master_link : put link dyw monitoring (only dealabs link)
+- Master_link : put link dyw monitoring (only dealabs link ex : https://www.dealabs.com/top, https://www.dealabs.com/nouveaux, ...) 
 - await_time : loop await time (ex : 2)
 - Keyword : Specific keyword (if keyword found, webhook send ping user / check setup.json for exemple)
 
